@@ -1,0 +1,23 @@
+title:            DevBytes
+description:      Developer tidbits and code recipes
+url:              devbytes.io
+signoff:          # Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         About
+    url:          /about
+  - name:         Email
+    url:          mailto:devbytes@droiddevil.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/devbytes
+    external:     true
+pygments:         true
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
