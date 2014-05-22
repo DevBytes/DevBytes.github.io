@@ -7,7 +7,7 @@ Say hello to [Cluster](https://github.com/DevBytes/cluster), a collection of hel
 
 ## Project Page
 
-https://github.com/DevBytes/cluster
+[https://github.com/DevBytes/cluster](https://github.com/DevBytes/cluster)
 
 ## Components
 
